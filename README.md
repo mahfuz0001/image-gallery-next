@@ -1,1 +1,1 @@
-# image-gallery-next
+# Manjul's Gallery
